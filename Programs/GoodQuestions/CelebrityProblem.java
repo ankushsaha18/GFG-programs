@@ -1,3 +1,5 @@
+package GoodQuestions;
+
 import java.util.Stack;
 
 public class CelebrityProblem {

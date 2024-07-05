@@ -1,3 +1,5 @@
+package GoodQuestions;
+
 public class MissingNumInArr {
     static int missingNumber(int array[], int n) {
         // Your Code Here

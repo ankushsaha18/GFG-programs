@@ -1,3 +1,5 @@
+package Basics;
+
 public class CountRotationArray {
     public static void main(String[] args) {
         int arr[] = { 7, 0, 2, 3, 4, 5 };

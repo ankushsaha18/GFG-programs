@@ -1,3 +1,5 @@
+package GoodQuestions;
+
 public class InfniteArrayFind {
     // Amazon Question
     public static void main(String[] args) {
